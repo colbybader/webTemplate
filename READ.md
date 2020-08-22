@@ -1,1 +1,1 @@
-# webTemplate
+# quoteGenerator
